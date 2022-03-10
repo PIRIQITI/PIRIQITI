@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PIRIQITI
-- 👀 I’m interested in ... penetration testing, web development
-- 🌱 I’m currently learning ... C++, pentesting, webdev
-- 💞️ I’m looking to collaborate on ... any related subject
+- 👀 I’m interested in ... CTFs
+- 🌱 I’m currently learning ... C++, Javascript and webdev
+- 💞️ I’m looking to collaborate on ... forensics CTFs
 - 📫 How to reach me ... reach my via github
 
 <!---
